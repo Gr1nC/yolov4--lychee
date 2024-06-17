@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>tree_201_xh3_20220323121800.jpg</filename>
+	<path>C:\Users\jxf\Desktop\标注\荔枝(桂味)V4\images\tree_201_xh3_20220323121800.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2592</width>
+		<height>1944</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>抽新梢期</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>482</xmin>
+			<ymin>386</ymin>
+			<xmax>553</xmax>
+			<ymax>448</ymax>
+		</bndbox>
+	</object>
+</annotation>

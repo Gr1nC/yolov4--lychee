@@ -1,0 +1,26 @@
+<annotation>
+	<folder>img</folder>
+	<filename>tree_201_xh2_20200807111000.jpg</filename>
+	<path>/Users/fala/project/荔枝/img/tree_201_xh2_20200807111000.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2592</width>
+		<height>1944</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>抽新梢期</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>217</xmin>
+			<ymin>918</ymin>
+			<xmax>283</xmax>
+			<ymax>995</ymax>
+		</bndbox>
+	</object>
+</annotation>

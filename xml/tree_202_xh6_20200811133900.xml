@@ -1,0 +1,26 @@
+<annotation>
+	<folder>新梢生长期</folder>
+	<filename>tree_202_xh6_20200811133900.jpg</filename>
+	<path>C:\Users\asus\Desktop\新梢生长期\tree_202_xh6_20200811133900.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2592</width>
+		<height>1944</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>新梢生长期</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>589</xmin>
+			<ymin>28</ymin>
+			<xmax>889</xmax>
+			<ymax>226</ymax>
+		</bndbox>
+	</object>
+</annotation>

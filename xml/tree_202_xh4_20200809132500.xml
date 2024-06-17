@@ -1,0 +1,26 @@
+<annotation>
+	<folder>抽新梢期</folder>
+	<filename>tree_202_xh4_20200809132500.jpg</filename>
+	<path>C:\Users\asus\Desktop\抽新梢期\tree_202_xh4_20200809132500.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2592</width>
+		<height>1944</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>抽新梢期</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2322</xmin>
+			<ymin>510</ymin>
+			<xmax>2420</xmax>
+			<ymax>587</ymax>
+		</bndbox>
+	</object>
+</annotation>

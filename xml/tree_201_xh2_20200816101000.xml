@@ -1,0 +1,26 @@
+<annotation>
+	<folder>img</folder>
+	<filename>tree_201_xh2_20200816101000.jpg</filename>
+	<path>/Users/fala/project/image/img/tree_201_xh2_20200816101000.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2592</width>
+		<height>1944</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>新梢生长期</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>148</xmin>
+			<ymin>953</ymin>
+			<xmax>379</xmax>
+			<ymax>1227</ymax>
+		</bndbox>
+	</object>
+</annotation>

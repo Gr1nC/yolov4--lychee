@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>tree_201_xh7_20201005094500.jpg</filename>
+	<path>F:\0-2021年物候标定 荔枝\JPEGImages\tree_201_xh7_20201005094500.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2592</width>
+		<height>1944</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>抽新梢期</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1441</xmin>
+			<ymin>712</ymin>
+			<xmax>1535</xmax>
+			<ymax>856</ymax>
+		</bndbox>
+	</object>
+</annotation>
